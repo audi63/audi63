@@ -56,9 +56,3 @@ Je suis ouvert aux collaborations et contributions sur des projets open source. 
 Merci de votre visite sur mon profil GitHub ! 🚀
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=audi63&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&locale=fr&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
