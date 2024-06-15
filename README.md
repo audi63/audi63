@@ -14,18 +14,16 @@ Fort de mon expérience avec les plugins professionnels tels que ceux de Brainst
   
 ### Langages
 
-[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
-[![SEO](https://img.shields.io/badge/-SEO-000000?style=for-the-badge&logo=google&logoColor=white)]() 
+![Static Badge](https://img.shields.io/badge/WordPress-Plugin%20Development-blue?style=for-the-badge&logo=wordpress)
+![PHP](https://img.shields.io/badge/PHP-Development-blue?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-SQLite-blue?style=for-the-badge&logo=mysql&logoColor=white)
+
+![SEO](https://img.shields.io/badge/SEO-Optimization-green?style=for-the-badge&logo=searchengineland)
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
-[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![WP REST API](https://img.shields.io/badge/-WP_REST_API-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]()
-[![Plugin Development](https://img.shields.io/badge/-Plugin_Development-000000?style=for-the-badge&logo=wordpress&logoColor=white)]()
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Style et Design
 - Inspiré de Bootstrap : Je préconise généralement un design sobre et moderne, dans lequel est mis en avant votre savoir-faire, vos photos, vos services etc.
